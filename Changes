@@ -1,0 +1,6 @@
+Revision history for Perl extension PPI::Format::Apache
+
+1.0 Sat Sep 06 2003
+	- Seperated PPI::Format::Apache out of the main PPI 
+	  distribution as it needs mod_perl, a dependency I don't
+	  want for the main PPI package.
